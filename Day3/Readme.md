@@ -103,5 +103,7 @@ Docker-Traning
 * Verified container communication
 
 ---
+1. Bridge Network
+   <img width="1796" height="468" alt="image" src="https://github.com/user-attachments/assets/2c2ff3fe-3c93-43da-a94d-4d07e72f0442" />
 
 
