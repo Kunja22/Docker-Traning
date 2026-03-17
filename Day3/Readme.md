@@ -111,6 +111,9 @@ Docker-Traning
    <img width="1892" height="634" alt="image" src="https://github.com/user-attachments/assets/7044f9d4-4c31-4602-afec-ac3588a0fc2e" />
 4. Deploy Host Network
    <img width="1037" height="575" alt="image" src="https://github.com/user-attachments/assets/9af0941f-f377-470c-9205-f7b663673dc8" />
+5. Create Custom Network
+   <img width="1370" height="942" alt="image" src="https://github.com/user-attachments/assets/f86bf03c-7ab4-4f87-9051-ab974e9f51b8" />
+   
 
 
 
