@@ -154,6 +154,13 @@ Step 2: Build Docker Image
 docker build -t flask-microservice .
 <img width="1043" height="671" alt="image" src="https://github.com/user-attachments/assets/59f10bd1-2a87-4b53-b9e7-95e3856a8a4f" />
 
+Step 3: Run Container Locally 
+docker run -p 5000:5000 flask-microservice
+Open browser:
+http://localhost:5000
+<img width="1322" height="713" alt="image" src="https://github.com/user-attachments/assets/958e8640-24b2-48c2-85a8-1cc81fc1686b" />
+
+
 
 
 
