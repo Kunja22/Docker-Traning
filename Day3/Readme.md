@@ -149,5 +149,7 @@ microservices-k8s
 Step 1: Clone the Repository
 git clone https://github.com/Kunja22/microservices-k8s.git
 cd microservices-k8s
+<img width="1902" height="884" alt="image" src="https://github.com/user-attachments/assets/04c6fc48-1c24-4d16-a4a7-53dfa6f6735c" />
+
 
 
