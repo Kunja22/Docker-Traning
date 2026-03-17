@@ -2,4 +2,4 @@
 
 This is a sample Node.js application deployed using Docker.  
 Below you can see the app running inside Docker.
-![image alt](https://github.com/Kunja22/Docker-Traning/blob/726e1a693b6f40f2cbade3d711d60c9057ef7efb/Day2/Readme.md)
+<img width="1639" height="931" alt="image" src="https://github.com/user-attachments/assets/e81c9628-192e-4792-a307-bfc09d6fda2d" />
