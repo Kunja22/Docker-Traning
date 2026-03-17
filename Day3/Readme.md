@@ -109,8 +109,8 @@ Docker-Traning
    <img width="1771" height="987" alt="image" src="https://github.com/user-attachments/assets/d03bd743-c315-474f-8abe-115b241d7cd3" />
 3. Host Network
    <img width="1892" height="634" alt="image" src="https://github.com/user-attachments/assets/7044f9d4-4c31-4602-afec-ac3588a0fc2e" />
-   
-   
-   
+4. Deploy Host Network
+   <img width="1037" height="575" alt="image" src="https://github.com/user-attachments/assets/9af0941f-f377-470c-9205-f7b663673dc8" />
+
 
 
