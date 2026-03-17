@@ -32,4 +32,6 @@ The application includes a **Dockerfile** that builds a Docker image of the Node
 Once the image is built, you can create and run a container to see the app running locally in a reproducible environment.
 
 > <img width="1912" height="613" alt="image" src="https://github.com/user-attachments/assets/ddbf3d65-9c3b-410d-9bd9-f0618159543d" />
+<img width="1056" height="776" alt="image" src="https://github.com/user-attachments/assets/864b2059-b9d5-4439-b031-19ff37a9049c" />
+
 
