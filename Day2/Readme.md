@@ -31,4 +31,5 @@ The application showcases a simple web interface and can be easily extended with
 The application includes a **Dockerfile** that builds a Docker image of the Node.js app.  
 Once the image is built, you can create and run a container to see the app running locally in a reproducible environment.
 
-> You can include a **screenshot of the running application** here to show the app inside the Docker container.
+> <img width="1912" height="613" alt="image" src="https://github.com/user-attachments/assets/ddbf3d65-9c3b-410d-9bd9-f0618159543d" />
+
