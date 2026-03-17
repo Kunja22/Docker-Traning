@@ -150,6 +150,10 @@ Step 1: Clone the Repository
 git clone https://github.com/Kunja22/microservices-k8s.git
 cd microservices-k8s
 <img width="1902" height="884" alt="image" src="https://github.com/user-attachments/assets/04c6fc48-1c24-4d16-a4a7-53dfa6f6735c" />
+Step 2: Build Docker Image
+docker build -t flask-microservice .
+<img width="1043" height="671" alt="image" src="https://github.com/user-attachments/assets/59f10bd1-2a87-4b53-b9e7-95e3856a8a4f" />
+
 
 
 
