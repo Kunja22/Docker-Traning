@@ -107,6 +107,9 @@ Docker-Traning
    <img width="1796" height="468" alt="image" src="https://github.com/user-attachments/assets/2c2ff3fe-3c93-43da-a94d-4d07e72f0442" />
 2. Deploy Bridge Network
    <img width="1771" height="987" alt="image" src="https://github.com/user-attachments/assets/d03bd743-c315-474f-8abe-115b241d7cd3" />
+3. Host Network
+   <img width="1892" height="634" alt="image" src="https://github.com/user-attachments/assets/7044f9d4-4c31-4602-afec-ac3588a0fc2e" />
+   
    
    
 
