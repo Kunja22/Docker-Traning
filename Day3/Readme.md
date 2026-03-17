@@ -116,5 +116,38 @@ Docker-Traning
 6. Network can communicate with each other
     <img width="1370" height="942" alt="image" src="https://github.com/user-attachments/assets/a25c172f-8dee-4285-92b4-ef2292bd846c" />
    
+## Kubernetes Microservice Flask Application
+
+This project demonstrates how to build, containerize, and deploy a Flask-based microservice application using Docker and Kubernetes.
+
+The application is packaged into a Docker container and deployed to a Kubernetes cluster using Kubernetes Deployment and Service resources.
+
+Project Architecture
+
+User Request → Kubernetes Service → Kubernetes Pod → Flask Application
+
+The Kubernetes Service exposes the Flask microservice running inside a containerized Pod.
+
+Technologies Used
+
+Python (Flask)
+
+Docker
+
+Kubernetes
+
+YAML Configuration
+
+Project Structure
+microservices-k8s
+│
+├── app.py
+├── requirements.txt
+├── Dockerfile
+├── kubernetes.yaml
+└── README.md
+Step 1: Clone the Repository
+git clone https://github.com/Kunja22/microservices-k8s.git
+cd microservices-k8s
 
 
