@@ -39,3 +39,6 @@ Simple HTTP server
 Serves static HTML
 
 Runs on port 5173
+# Step 1 
+install docker compose 
+<img width="1905" height="941" alt="image" src="https://github.com/user-attachments/assets/fc84bff4-6089-414c-ad0f-2c5096b88326" />
