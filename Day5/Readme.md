@@ -54,5 +54,11 @@ Serves static HTML
 Runs on port 5173
 <img width="1391" height="680" alt="image" src="https://github.com/user-attachments/assets/4c539d0c-4d24-44b9-b897-d86eb962b9bb" />
 
+🌐 Access Application
+
+Frontend 👉 http://localhost:5173
+
+Backend 👉 http://localhost:5000
+
 
 
