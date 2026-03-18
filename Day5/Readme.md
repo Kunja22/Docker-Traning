@@ -42,3 +42,4 @@ Runs on port 5173
 # Step 1 
 install docker compose 
 <img width="1905" height="941" alt="image" src="https://github.com/user-attachments/assets/fc84bff4-6089-414c-ad0f-2c5096b88326" />
+<img width="1910" height="922" alt="image" src="https://github.com/user-attachments/assets/04cd1fa4-53a9-49a0-8ad0-b40670791292" />
