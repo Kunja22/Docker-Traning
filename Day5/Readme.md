@@ -46,4 +46,8 @@ install docker compose
 # Step 2
 docker compose file 
 <img width="755" height="738" alt="image" src="https://github.com/user-attachments/assets/0283f4f4-211a-48d1-94a7-70469aa1ba5b" />
+## Step 3 
+Container is running
+<img width="1813" height="913" alt="image" src="https://github.com/user-attachments/assets/c3edb8b2-7280-4393-96af-cd968357c534" />
+
 
