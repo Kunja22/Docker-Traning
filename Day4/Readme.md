@@ -16,3 +16,4 @@ This PR adds the complete practical implementation of Docker volumes and updates
 3. **Bind Mount**
    - Host folder (`~/myapp`) mapped to container path (`/usr/share/nginx/html`).
    - Live synchronization: changes on host reflect in container and vice versa.
+<img width="1818" height="947" alt="image" src="https://github.com/user-attachments/assets/18c7b7cf-eb31-4022-b332-464535f150e0" />
