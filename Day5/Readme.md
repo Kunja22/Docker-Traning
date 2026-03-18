@@ -42,6 +42,8 @@ Port: 27017
 2️⃣ Backend (Node.js)
 
 Runs on port 5000
+<img width="1418" height="605" alt="image" src="https://github.com/user-attachments/assets/0be6f290-1fcc-4900-af97-1a8e06882516" />
+
 
 Simple HTTP server
 
