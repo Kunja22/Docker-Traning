@@ -12,5 +12,4 @@ container, stop, restart, remove it.
 <img width="811" height="658" alt="image" src="https://github.com/user-attachments/assets/1eeb5fce-0665-41d0-97f0-1edd143dc560" />
 <img width="1826" height="910" alt="image" src="https://github.com/user-attachments/assets/887672f7-6386-48d0-8514-9d71f064b414" />
 # 3. Docker Networking
-
-
+<img width="1289" height="847" alt="image" src="https://github.com/user-attachments/assets/ab9dd010-cbc8-428e-9045-5e58fa34fb3b" />
