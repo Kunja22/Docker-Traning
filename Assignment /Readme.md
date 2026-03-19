@@ -11,5 +11,6 @@ container, stop, restart, remove it.
 # Task 2 Custom Docker Image (Multi-Stage & Best Practices)
 <img width="811" height="658" alt="image" src="https://github.com/user-attachments/assets/1eeb5fce-0665-41d0-97f0-1edd143dc560" />
 <img width="1826" height="910" alt="image" src="https://github.com/user-attachments/assets/887672f7-6386-48d0-8514-9d71f064b414" />
+# 3. Docker Networking
 
 
