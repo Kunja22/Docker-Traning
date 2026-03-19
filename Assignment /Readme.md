@@ -8,5 +8,7 @@ container, stop, restart, remove it.
  Inspect running container(s): list, logs, enter container, inspect metadata.
  <img width="1733" height="501" alt="image" src="https://github.com/user-attachments/assets/3fbdb099-2990-4148-a22d-c195f1ba8edd" />
 <img width="1915" height="925" alt="image" src="https://github.com/user-attachments/assets/e138610d-025e-499b-a0ff-82be83b69154" />
+# Task 2 Custom Docker Image (Multi-Stage & Best Practices)
+<img width="811" height="658" alt="image" src="https://github.com/user-attachments/assets/1eeb5fce-0665-41d0-97f0-1edd143dc560" />
 
 
