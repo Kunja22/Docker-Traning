@@ -10,5 +10,6 @@ container, stop, restart, remove it.
 <img width="1915" height="925" alt="image" src="https://github.com/user-attachments/assets/e138610d-025e-499b-a0ff-82be83b69154" />
 # Task 2 Custom Docker Image (Multi-Stage & Best Practices)
 <img width="811" height="658" alt="image" src="https://github.com/user-attachments/assets/1eeb5fce-0665-41d0-97f0-1edd143dc560" />
+<img width="1826" height="910" alt="image" src="https://github.com/user-attachments/assets/887672f7-6386-48d0-8514-9d71f064b414" />
 
 
