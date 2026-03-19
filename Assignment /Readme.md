@@ -6,4 +6,7 @@ Install Docker Engine
  From the repo, run the Flask app as a container. Pull required base image(s), run
 container, stop, restart, remove it.
  Inspect running container(s): list, logs, enter container, inspect metadata.
+ <img width="1733" height="501" alt="image" src="https://github.com/user-attachments/assets/3fbdb099-2990-4148-a22d-c195f1ba8edd" />
+<img width="1915" height="925" alt="image" src="https://github.com/user-attachments/assets/e138610d-025e-499b-a0ff-82be83b69154" />
+
 
